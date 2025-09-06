@@ -1,5 +1,6 @@
 # MakeVideo AI — Text-to-Video Generator
 Deployed Link-https://make-video-ai.vercel.app/
+
 MakeVideo AI is a full-stack, AI-powered video generation platform that transforms simple text prompts into cinematic video clips. Built with a modern tech stack including Next.js, Tailwind CSS, and Drizzle ORM with a PostgreSQL database, this application demonstrates a complete end-to-end workflow from user input to final output.
 The backend leverages a multi-stage pipeline, first enhancing user prompts with the Google Gemini API for richer detail, then generating video content via the Replicate API and ModelLabs API. The result is a seamless and responsive user experience with a beautiful UI for generating, exploring, and saving AI-created videos.
 
